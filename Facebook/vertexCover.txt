@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/huber/vertexCover2.py", line 176, in <module>
+    with open(kfile, "r") as kf:
+FileNotFoundError: [Errno 2] No such file or directory: 'Facebook/vc_k.txt'
